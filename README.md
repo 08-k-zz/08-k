@@ -5,7 +5,7 @@
 !-->
 
 ## Pinned Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=project-winpass11&repo=WinPass11.GuidedInstaller)](https://github.com/project-winpass11/WinPass11.GuidedInstaller)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winbyte-devs&repo=WinPass11)](https://github.com/winbyte-devs/WinPass11)
 
 ## Langauges
 - C#
