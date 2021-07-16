@@ -17,8 +17,9 @@
 - GraphQL
 
 ## Contact
-- Email: cldoc507@gmail.com
-- Discord: KojiOdyssey#0001
+- Personal: cldoc507@gmail.com
+- Business: koji@arkane.tech
+- Discord : KojiOdyssey#0001
 
 ## Programs
 - IDEs
