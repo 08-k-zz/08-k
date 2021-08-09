@@ -1,11 +1,8 @@
-# 👋 Hiya! I'm Koji
+# Heya! I'm Koji!
 
 <!--
 **08-k/08-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-
-## Pinned Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArkaneDev&repo=WinPass11)](https://github.com/ArkaneDev/WinPass11)
 
 ## Langauges
 - C#
@@ -14,11 +11,10 @@
 
 ## Want to learn
 - C
-- GraphQL
+- C++
 
 ## Contact
 - Personal: cldoc507@gmail.com
-- Business: koji@arkane.tech
 - Discord : KojiOdyssey#0001
 
 ## Programs
